@@ -1,9 +1,9 @@
 {
   "name":{
-    "message": "Circle (阅读模式｜reader mode)"
+    "message": "开开阅 (阅读模式｜reader mode)"
   },
   "description":{
-    "message": "让网页赏心悦目、让阅读回归初心。Circle 提供更隐私、更轻松、更舒适的阅读体验"
+    "message": "让网页赏心悦目、让阅读回归初心。开开阅 提供更隐私、更轻松、更舒适的阅读体验"
   },
   "loading":{
     "message":"下一页解析成功，开始自动加载"
@@ -72,13 +72,13 @@
     "message":"数据异常，请稍后再试"
   },
   "welcome":{
-    "message":"感谢您安装 Circle"
+    "message":"感谢您安装 开开阅"
   },
   "init_info":{
     "message":"系统初始化中，完成之前请不要关闭窗口"
   },
   "init_success":{
-    "message":"Circle 初始化已完成，尽情使用吧"
+    "message":"开开阅 初始化已完成，尽情使用吧"
   },
   "user_guide":{
     "message":"查看使用指南"
@@ -87,7 +87,7 @@
     "message":"进入设置页面"
   },
   "init_warn":{
-    "message":"初始化失败，Circle 无法提供服务"
+    "message":"初始化失败，开开阅 无法提供服务"
   },
   "init_error":{
     "message":"请在联网的状态下刷新当前页面。错误原因："

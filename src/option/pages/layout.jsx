@@ -70,7 +70,7 @@ export default function(){
           {api.i18n.getMessage('whitelist')}
         </Textarea>
       </div>
-      <h3 className="option-title">
+      {/* <h3 className="option-title">
         {api.i18n.getMessage('help_center')}
         <Share />
       </h3>
@@ -80,7 +80,7 @@ export default function(){
         <Link url="https://github.com/hewenguang/circle">{api.i18n.getMessage('source_code')}</Link>
         <div className="option-item option-donate">{api.i18n.getMessage('donate')}<img src="../assets/img/donate.jpg" /></div>
         <div className="option-item">{api.i18n.getMessage('contact')}<br />{api.i18n.getMessage('discussion_group')}</div>
-      </div>
+      </div> */}
     </div>
   );
 }

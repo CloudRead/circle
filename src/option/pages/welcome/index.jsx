@@ -53,14 +53,14 @@ export default function(){
       children = (
         <>
           <h1>{api.i18n.getMessage('init_success')}</h1>
-          <Button
+          {/* <Button
             type="primary"
             onClick={() => {
               location.href = 'https://ranhe.xyz/circle-usage';
             }}
           >
             {api.i18n.getMessage('user_guide')}
-          </Button>
+          </Button> */}
           <Button
              onClick={() => {
                location.reload();
